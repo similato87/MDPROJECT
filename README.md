@@ -4,7 +4,7 @@
 ***
 ## About TD
 1. The TD Bank Group offers a full range of financial products through three key business lines which are <span style="color:red">Canadian Retail, U.S. Retail, and Wholesale Banking</span>.
-2. - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`afafafa
+2. - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) afafaf`faf#f03c15`afafafa
 3. Canadian Retail includes TD Canada Trust, Business Banking, TD Auto Finance, TD Wealth, TD Direct Investing, and TD Insurance.
 4. U.S. Retail includes TD Bank, TD Auto Finance, TD Wealth, and TD Ameritrade.
 5. TD Bank is a -Fortune 500- company.
