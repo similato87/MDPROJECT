@@ -6,7 +6,7 @@
 1. The TD Bank Group offers a full range of financial products through three key business lines which are <span style="color:red">Canadian Retail, U.S. Retail, and Wholesale Banking</span>.
 2. Canadian Retail includes TD Canada Trust, Business Banking, TD Auto Finance, TD Wealth, TD Direct Investing, and TD Insurance.
 3. U.S. Retail includes TD Bank, TD Auto Finance, TD Wealth, and TD Ameritrade.
-4. TD Bank is a <span style="color:red">Fortune 500</span> company.
+4. TD Bank is a -Fortune 500- company.
 5. The <span style="color:red">headquarters</span> are in <span style="color:red">Toronto</span> Canada. 
 6. TD Canada Trust is one of Canada’s largest banks.
 7. In August 2011, Toronto Dominion Bank purchased MBNA Canadian MasterCard portfolio.  TD issues both Visa and Mastercard. 
