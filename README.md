@@ -27,6 +27,7 @@
 - [5 Bank Teller Interview Questions You're Likely to be Asked](https://www.snagajob.com/blog/post/bank-teller-job-interview-questions)
 ### Some summary
 - [2017 slides-TD Bank Teller Interview](https://www.slideshare.net/coursetake/td-bank-teller-interview)
+- [Official FAQ](https://jobs.td.com/en/job-search-results/faqs/)
 ### YouTube Video
 - [Bank Teller Selection Interview](https://www.youtube.com/watch?v=FxW50eFooJs)
 - [BANK TELLER Interview Questions And Answers!](https://www.youtube.com/watch?v=QAie1iacewc)
@@ -36,3 +37,6 @@
 ### Question Cards for practicing
 - [Interview Question Card](https://quizlet.com/ca/281090817/td-bank-interview-flash-cards/)
 - [Mock Interview Questions](https://www.mockquestions.com/company/TD+Bank/)
+***
+# I'm sure you can pass! Good luck!
+![](https://cdn.pixabay.com/photo/2015/04/06/19/40/fish-709886_960_720.jpg)
