@@ -1,4 +1,4 @@
-# This is a MD file for Helen
+# This is an info file for Helen
 ***
 #### Tip: ALL [blue words & sentences](README.md) are hyperlinks to the pages for clicking
 ***
